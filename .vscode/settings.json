@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "random": "cpp",
+        "__nullptr": "cpp",
+        "string": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "type_traits": "cpp",
+        "iosfwd": "cpp",
+        "atomic": "cpp"
+    }
+}
